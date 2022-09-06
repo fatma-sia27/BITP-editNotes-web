@@ -1,0 +1,32 @@
+{
+  "files": {
+    "main.css": "/BITP-editNotes-web/static/css/main.e6c13ad2.css",
+    "main.js": "/BITP-editNotes-web/static/js/main.0b0698c3.js",
+    "static/js/787.2f99bd6d.chunk.js": "/BITP-editNotes-web/static/js/787.2f99bd6d.chunk.js",
+    "static/media/firstYrImg.jpg": "/BITP-editNotes-web/static/media/firstYrImg.7fd73cc5d465e9e06300.jpg",
+    "static/media/vdo.mp4": "/BITP-editNotes-web/static/media/vdo.2f31b5d21cedf39c9709.mp4",
+    "static/media/secYearImg.jpg": "/BITP-editNotes-web/static/media/secYearImg.01246a88b71956e65a97.jpg",
+    "static/media/mainBg.png": "/BITP-editNotes-web/static/media/mainBg.c3a8caa936d933cd98ba.png",
+    "static/media/contactUsBg.png": "/BITP-editNotes-web/static/media/contactUsBg.f7eb744d0350eb079043.png",
+    "static/media/contactUs.png": "/BITP-editNotes-web/static/media/contactUs.3d61a8b7a98314e78f64.png",
+    "static/media/OPPORTUNITY.png": "/BITP-editNotes-web/static/media/OPPORTUNITY.81b851decd40e646b521.png",
+    "static/media/thirdYearImg.jpg": "/BITP-editNotes-web/static/media/thirdYearImg.6a130fbd8e31f9f55958.jpg",
+    "static/media/aasPic.png": "/BITP-editNotes-web/static/media/aasPic.a12dbe4e748714cd2c62.png",
+    "static/media/sem3.png": "/BITP-editNotes-web/static/media/sem3.4dc720f7242e9546179b.png",
+    "static/media/tannuPic.png": "/BITP-editNotes-web/static/media/tannuPic.0a0505c97033582e8ce3.png",
+    "static/media/sem4.png": "/BITP-editNotes-web/static/media/sem4.ddd3b11b9a96b9cce873.png",
+    "static/media/about.png": "/BITP-editNotes-web/static/media/about.f4998f90ab77b53870f6.png",
+    "static/media/opportunitysecYr.png": "/BITP-editNotes-web/static/media/opportunitysecYr.90aea8cd5b131561951e.png",
+    "static/media/google.png": "/BITP-editNotes-web/static/media/google.d1c45f608960e63b2645.png",
+    "static/media/github.png": "/BITP-editNotes-web/static/media/github.2966c936d73fdfb9ad9e.png",
+    "static/media/linkedin.png": "/BITP-editNotes-web/static/media/linkedin.3f5aebdb0bc9e574dd8c.png",
+    "index.html": "/BITP-editNotes-web/index.html",
+    "main.e6c13ad2.css.map": "/BITP-editNotes-web/static/css/main.e6c13ad2.css.map",
+    "main.0b0698c3.js.map": "/BITP-editNotes-web/static/js/main.0b0698c3.js.map",
+    "787.2f99bd6d.chunk.js.map": "/BITP-editNotes-web/static/js/787.2f99bd6d.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.e6c13ad2.css",
+    "static/js/main.0b0698c3.js"
+  ]
+}
