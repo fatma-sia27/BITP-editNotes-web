@@ -1,7 +1,7 @@
 import { useEffect } from 'react';
 import Main from './components/main';
 import Login from './components/login'
-import SignUp from './components/signup'
+import Signup from './components/signup'
 import AboutUs from './components/aboutUs';
 import Team from './components/Team';
 import LoginDashboard from './components/logindashboard';
@@ -43,7 +43,7 @@ function App() {
       <Route path="/login" element={<Login/>} />
       <Route path="/googleLogin" element={<GoogLogin/>} />
 
-      <Route path="/signup" element={<SignUp />} />
+      <Route path="/signup" element={<Signup />} />
       <Route path="/loginDashBoard" element={<LoginDashboard/>} />
       <Route path="/opportunities" element={<Opportunities/>} />
       <Route path="/firstYearCSE" element={<FirstYrCSE/>} />

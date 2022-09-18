@@ -2,7 +2,7 @@ import React , {useState} from 'react'
 import { NavLink , useNavigate } from 'react-router-dom'
 import {BrowserRouter as Router, Link} from 'react-router-dom';
 
-const signup = ()=> {
+const Signup = ()=> {
   const navigate = useNavigate()
   const [user , setUser] = useState({
     fname:"" , lname:"" , uname:"" ,pwd:"" , stream:"" , year:""  
@@ -178,4 +178,4 @@ const signup = ()=> {
 
 
 
-export default signup
+export default Signup

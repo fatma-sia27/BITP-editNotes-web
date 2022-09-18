@@ -5,7 +5,7 @@ import pic3 from '../images/linkedin.png'
 import pic4 from '../images/github.png'
 import {BrowserRouter as Router, Link} from 'react-router-dom';
 
-export default function login() {
+export default function Login() {
   let mySt={
     background: 'rgb(34,193,195)',
     background: "linear-gradient(135deg, rgba(34,193,195,1) 0%,     rgba(253,187,45,1) 100%)",

@@ -6,7 +6,7 @@ import pic3  from '../images/tannuPic.png'
 import pic4 from '../images/contactUs.png'
 import pic5 from '../images/logo.png'
 import {BrowserRouter as Router, Link} from 'react-router-dom';
-export default function main() {
+export default function Main() {
   const [user , setUser] = useState({
     firname:"" , lasname:"" , email:"" ,wsp:"" , str:"" , grad:""  
   })
