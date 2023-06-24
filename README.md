@@ -1,3 +1,10 @@
+Some snaps of website :
+![image](https://github.com/fatma-sia27/BITP-editNotes-web/assets/77666526/ac0c816a-1c99-475d-865f-69676fe93f9a)
+![image](https://github.com/fatma-sia27/BITP-editNotes-web/assets/77666526/693a2179-0637-49de-99c9-d46ef524741c)
+![image](https://github.com/fatma-sia27/BITP-editNotes-web/assets/77666526/6357429b-0ac5-4da4-bd3b-f74d6525aa63)
+
+
+
 # Getting Started with Create React App
 
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
